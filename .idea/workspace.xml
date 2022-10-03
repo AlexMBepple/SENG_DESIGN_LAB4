@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fd171fb-f79a-466b-8ec0-26b82e50a88c" name="Changes" comment="Finished Calculator base functionality to show use of factory pattern with operations">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalculatorForm.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalculatorForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/add.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/divide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operationFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sub.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +36,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Surface Book/IdeaProjects/Calculoki"
+    "last_opened_file_path": "C:/Users/Surface Book/IdeaProjects/Calculoki",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -70,7 +61,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664826254054</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Finished Calculator base functionality to show use of factory pattern with operations">
+      <created>1664830959988</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664830959988</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Finished Calculator base functionality to show use of factory pattern with operations">
+      <created>1664831186453</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664831186453</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
